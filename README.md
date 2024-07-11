@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Git Repository.
 <br>
-Author-Pushkar raj
+Author-Pushkar raj (raj)
